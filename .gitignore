@@ -1,0 +1,40 @@
+# Unity 自动生成的目录，不需要进版本库
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+BuildLogs/
+
+# IDE / 工程文件（都由 Unity 生成）
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# macOS
+.DS_Store
+
+# 崩溃与打包产物
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
